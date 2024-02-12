@@ -5,7 +5,7 @@ endif
 let colors_name = "github-colors"
 
 if &background ==# 'dark'
-  let s:dimBackground = '#22272e'
+  let s:dimBackground = '#151515'
   let s:dimBackground2 = '#2d333b'
   let s:gray ='#adbac7'
   let s:grayer = '#768390'
